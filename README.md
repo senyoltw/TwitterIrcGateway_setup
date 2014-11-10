@@ -29,5 +29,11 @@ Enable
 できてるはず
 
 ```
-=======
+### TypableMap有効のしかた
+
+```
+#Consoleに入る
+config
+set EnableTypableMap true
+#サーバを切断・再ログイン
 ```
