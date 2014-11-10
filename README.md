@@ -4,10 +4,10 @@ TwitterIrcGateway_setup
 TwitterIrcGatewayを自動インストールするスクリプト。超適当。
 
 ### つかいかた
-``
+```bash
 chmod 755 install.sh
 ./install.sh
-``
+```
 
 ### ユーザストリームの有効のしかた
 ```
@@ -28,4 +28,6 @@ Enable
 #サーバを切断・再ログイン
 できてるはず
 
+```
+=======
 ```
